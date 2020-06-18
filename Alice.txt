@@ -3,3 +3,6 @@ Some new text here.
 Some even newer text here.
 EVEN NEWER TEXT here.
 This was a manual change added on the website and fixed in terminal.
+This was a manual change added on the website
+Another website change!
+
