@@ -1,4 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Some new text here.
 Some even newer text here.
-EVEN NEWER TEXT here
+EVEN NEWER TEXT here.
+This was a manual change added on the website and fixed in terminal.
